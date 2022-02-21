@@ -1,0 +1,54 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Modelle:",
+      "color": 16711680,
+      "fields": [
+        {
+          "name": "Name",
+          "value": "[Smithsonian](https://3d.si.edu/)\n[OpenGameArt](https://opengameart.org/)\n[Thingiverse](https://www.thingiverse.com/)\n[CGTrade](https://www.cgtrader.com/)\n[Thangs](https://thangs.com/)\n[Yeggi](https://www.yeggi.com/)\n[Turbosquid](https://www.turbosquid.com/)\n[Sketchfab](https://sketchfab.com/)\n[Free 3D](https://free3d.com/)\n[3D Ocean](https://3docean.net/)\n[hum 3D](https://hum3d.com/)",
+          "inline": true
+        },
+        {
+          "name": "Preis",
+          "value": "Kostenlos\nKostenlos\nKostenlos\nKostenlos & Bezahlt\nKostenlos & Bezahlt\nKostenlos & Bezahlt\nKostenlos & Bezahlt\nKostenlos & Bezahlt\nKostenlos & Bezahlt\nBezahlt\nBezahlt",
+          "inline": true
+        }
+      ],
+      "author": {
+        "name": "Blender Deutschland",
+        "icon_url": "https://images-ext-1.discordapp.net/external/sU5psWdyrIFSrB9shtUww0w_ESw-dWyGdUt0zdgcBhg/https/bl-de.de/assets/logo.png?width=572&height=468"
+      },
+      "footer": {
+        "text": "by !thorbino#0001",
+        "icon_url": "https://cdn.discordapp.com/avatars/297416972197560320/1c3aec65e48d63fc395f97d818ebb461.png?size=1024"
+      },
+      "timestamp": "2022-02-21T04:52:00.000Z"
+    },
+    {
+      "title": "Texturen",
+      "color": 65280,
+      "fields": [
+        {
+          "name": "Name",
+          "value": "[Texturecan](https://www.texturecan.com/)\n[OpenGameArt](https://opengameart.org/)\n[Thingiverse](https://www.thingiverse.com/)\n[CGTrade](https://www.cgtrader.com/)\n[Thangs](https://thangs.com/)\n[Yeggi](https://www.yeggi.com/)\n[Turbosquid](https://www.turbosquid.com/)\n[CG Book Case](https://www.cgbookcase.com/)\n[Ambient CG](https://ambientcg.com/)\n[Poly Heaven](https://polyhaven.com/)\n[3D Textures](https://polyhaven.com/)\n[Smithsonian](https://www.si.edu/openaccess)\n[Textures](https://www.textures.com/)\n[Poliigon](https://www.poliigon.com/)",
+          "inline": true
+        },
+        {
+          "name": "Preis",
+          "value": "Kostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos\nKostenlos & Bezahlt\nBezahlt",
+          "inline": true
+        }
+      ],
+      "author": {
+        "name": "Blender Deutschland",
+        "icon_url": "https://images-ext-1.discordapp.net/external/sU5psWdyrIFSrB9shtUww0w_ESw-dWyGdUt0zdgcBhg/https/bl-de.de/assets/logo.png?width=572&height=468"
+      },
+      "footer": {
+        "text": "by !thorbino#0001",
+        "icon_url": "https://cdn.discordapp.com/avatars/297416972197560320/1c3aec65e48d63fc395f97d818ebb461.png?size=1024"
+      }
+    }
+  ]
+}
