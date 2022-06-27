@@ -18,9 +18,35 @@
       crossorigin="anonymous"
     />
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-6RR3Q10T0T"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-6RR3Q10T0T");
+    </script>
+
     <!-- Favicon and title -->
-    <link rel="icon" href="path/to/fav.png" />
-    <title>Starter template - Halfmoon</title>
+    <link rel="icon" href="src/Logo1.png" />
+    <title>Home - thorbino.de</title>
+
+       <!-- Meta tags -->
+       <meta property="og:type" content="profile" />
+       <meta property="og:url" content="/" />
+       <meta property="og:title" content="Thorbino.de" />
+       <meta
+         property="og:description"
+         content="thorbino.de Website, updated"
+       />
+       <meta property="og:image" content="/src/Logo1.png" />
+       <meta name="theme-color" content="#ffc300" />
 
     <!-- Halfmoon CSS -->
     <link
@@ -117,12 +143,10 @@
           <!-- Sidebar links and titles -->
           <h5 class="sidebar-title">Projects</h5>
           <div class="sidebar-divider"></div>
-          <a href="#" class="sidebar-link active">Projekte</a>
+          <a href="index.html" class="sidebar-link active">Projekte</a>
           <br />
           <h5 class="sidebar-title">Links</h5>
           <div class="sidebar-divider"></div>
-          <a href="#" class="sidebar-link">File explorer</a>
-          <a href="#" class="sidebar-link">Spreadsheet</a>
           <a href="/impressum.html" class="sidebar-link">Impressum</a>
           <a href="/contact.html" class="sidebar-link">Contact</a>
         </div>
@@ -191,18 +215,44 @@
             <!-- w-400 = width: 40rem (400px), mw-full = max-width: 100% -->
             <div class="card">
               <img
-                src="src/pw-manager.png"
+                src="src/Nextcloud_Logo.png"
                 class="img-fluid rounded-top"
                 alt="..."
               />
               <h2 class="card-title">Cloud</h2>
               <p class="text-muted">
-                My storage Cloud Server, hosted by Hetzner
+                My Nextcloud server with 1TB storage, hosted at Hetzner.
               </p>
               <div class="text-right">
                 <!-- text-right = text-align: right -->
                 <a
                   href="https://cloud.thorbino.de"
+                  target="_blank"
+                  class="btn btn-primary"
+                  ><i class="fas fa-external-link-alt"></i> Open</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <!--Vierte Karte-->
+          <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+            <!-- w-400 = width: 40rem (400px), mw-full = max-width: 100% -->
+            <div class="card">
+              <img
+                src="src/social-website.png"
+                class="img-fluid rounded-top"
+                alt="..."
+              />
+              <h2 class="card-title">social-website</h2>
+              <p class="text-muted">
+                A website like Linktree with all my links and so on. Like
+                Instagram, Discord and so on
+              </p>
+              <div class="text-right">
+                <!-- text-right = text-align: right -->
+                <a
+                  href="https://social.thorbino.de"
                   target="_blank"
                   class="btn btn-primary"
                   ><i class="fas fa-external-link-alt"></i> Open</a
