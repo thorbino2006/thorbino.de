@@ -27,5 +27,7 @@
   "bugs": {
     "url": "https://github.com/halfmoonui/halfmoon/issues"
   },
-  "homepage": "https://github.com/halfmoonui/halfmoon#readme"
+  "homepage": "https://github.com/halfmoonui/halfmoon#readme",
+  "dependencies": {
+  }
 }
